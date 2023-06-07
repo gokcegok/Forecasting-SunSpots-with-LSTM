@@ -79,7 +79,7 @@ forecast <- function(model, data) {
 # Preparing Dataset
 # ========================================================================================== #
 
-dataset_path <- "Sunspots.csv"
+dataset_path <- "Sunspots-Dataset.csv"
 data <- read.csv(dataset_path)
 
 data$Date <- as.Date(data$Date)
