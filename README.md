@@ -7,5 +7,7 @@ Sunspots are temporary phenomena on the Sun's photosphere that appear as spots d
 In this project, I used LSTM for forecasting "Monthly Mean Total Sunspot Number". Model metrics; R-squared=0.9021072 and RMSE=23.87132. 
 
 ## References
+
 [1] Dataset: https://www.kaggle.com/datasets/robervalt/sunspots
+
 [2] Royal Observatory of Belgium, https://www.sidc.be/SILSO/datafiles
